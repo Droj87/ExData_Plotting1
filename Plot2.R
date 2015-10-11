@@ -1,4 +1,7 @@
-# open device 
+ # source data
+ Source("Sourcedata.R")
+
+ # open device 
  png(filename='plot2.png',width=480,height=480,units='px') 
  
 
